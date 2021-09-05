@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.71faeb41.chunk.css",
+    "main.js": "/React-portfolio/static/js/main.fb3a9340.chunk.js",
+    "main.js.map": "/React-portfolio/static/js/main.fb3a9340.chunk.js.map",
+    "runtime-main.js": "/React-portfolio/static/js/runtime-main.04bf255e.js",
+    "runtime-main.js.map": "/React-portfolio/static/js/runtime-main.04bf255e.js.map",
+    "static/js/2.8b1e2549.chunk.js": "/React-portfolio/static/js/2.8b1e2549.chunk.js",
+    "static/js/2.8b1e2549.chunk.js.map": "/React-portfolio/static/js/2.8b1e2549.chunk.js.map",
+    "static/js/3.41638708.chunk.js": "/React-portfolio/static/js/3.41638708.chunk.js",
+    "static/js/3.41638708.chunk.js.map": "/React-portfolio/static/js/3.41638708.chunk.js.map",
+    "index.html": "/React-portfolio/index.html",
+    "static/css/main.71faeb41.chunk.css.map": "/React-portfolio/static/css/main.71faeb41.chunk.css.map",
+    "static/js/2.8b1e2549.chunk.js.LICENSE.txt": "/React-portfolio/static/js/2.8b1e2549.chunk.js.LICENSE.txt",
+    "static/media/AATISH.a966dcc0.jpg": "/React-portfolio/static/media/AATISH.a966dcc0.jpg",
+    "static/media/Frontend-icon.33b2bb2c.png": "/React-portfolio/static/media/Frontend-icon.33b2bb2c.png",
+    "static/media/design-icon.5b7d01df.png": "/React-portfolio/static/media/design-icon.5b7d01df.png",
+    "static/media/logo.91033a70.png": "/React-portfolio/static/media/logo.91033a70.png",
+    "static/media/marketing-icon.4599f36e.png": "/React-portfolio/static/media/marketing-icon.4599f36e.png",
+    "static/media/webdev-icon.fa044d48.png": "/React-portfolio/static/media/webdev-icon.fa044d48.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04bf255e.js",
+    "static/js/2.8b1e2549.chunk.js",
+    "static/css/main.71faeb41.chunk.css",
+    "static/js/main.fb3a9340.chunk.js"
+  ]
+}
